@@ -1,0 +1,119 @@
+{
+  "code": "SWCU",
+  "title": "SMASH SWCU",
+  "school": "수원가톨릭대",
+  "fullName": "수원가톨릭대학교",
+  "campusName": "수원가톨릭대학교",
+  "tagline": "수원가톨릭대를 부셔 (시험기간 스트레스 해소)",
+  "description": "수원가톨릭대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 수원가톨릭대학교 3D 화면과 SMASH SWCU 제목",
+  "url": "https://hong-iron.github.io/SMASH-SWCU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 468403074
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.1950004,
+        126.9344724
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 땅이 아닌 밭(왕림리 224 전)에 1974년 단독주택으로 등록된 작은 집이라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        37.1939095,
+        126.9335575
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 사진에서 이 자리에는 나무숲만 보이고 지붕이 전혀 보이지 않는다."
+    },
+    {
+      "at": [
+        37.194879,
+        126.9345994
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 북동쪽 길가의 개인 땅(왕림리 224-3 대지, 301㎡)에 2012년 단독주택으로 등록된 집이다."
+    }
+  ],
+  "look": {
+    "하상관": {
+      "style": "brick",
+      "wall": "#75504c",
+      "glass": "#2b2628",
+      "frame": "#9b9398"
+    },
+    "대성당": {
+      "style": "brick",
+      "wall": "#bd9a7f",
+      "glass": "#7f868a",
+      "frame": "#eef2ef",
+      "roof": "#7f93ad",
+      "hip": true
+    },
+    "바오로관": {
+      "style": "brick",
+      "wall": "#875949",
+      "glass": "#3f3d3a",
+      "frame": "#efeadb",
+      "roof": "#ae7b65",
+      "hip": true
+    },
+    "어우름관": {
+      "style": "brick",
+      "wall": "#8a6658",
+      "glass": "#3b3431",
+      "frame": "#979695"
+    },
+    "일치관": {
+      "style": "dorm",
+      "wall": "#6a4740",
+      "glass": "#3a3332",
+      "frame": "#d7c0b1"
+    },
+    "조명관": {
+      "style": "dorm",
+      "wall": "#7d4f47",
+      "glass": "#3f3a3b",
+      "frame": "#c8c8c6"
+    },
+    "정화관": {
+      "style": "dorm",
+      "wall": "#d29a7e",
+      "glass": "#3d3a3c",
+      "frame": "#e0e5e4"
+    },
+    "망덕관": {
+      "style": "concrete",
+      "wall": "#a4a8aa",
+      "glass": "#333432",
+      "frame": "#e9eeee",
+      "roof": "#737879",
+      "hip": true
+    },
+    "신덕관": {
+      "style": "tan",
+      "wall": "#e8d3a8",
+      "glass": "#6f7a66",
+      "frame": "#6b6a5e"
+    },
+    "애덕관": {
+      "style": "tan",
+      "wall": "#c2a583",
+      "glass": "#3f4443",
+      "frame": "#ebdfc1"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
